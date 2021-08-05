@@ -1,4 +1,4 @@
-# GOCS gRPCweb client
+# GOCS gRPC web client
 A ReactJS UI for the [gocs gRPC service](https://github.com/AbhilashJN/gocs-grpc-server). Based on [grpc-web](https://github.com/grpc/grpc-web). Most of the components in this UI are from [gocs-ui-core](https://github.com/AbhilashJN/gocs-ui-core).
 
 ## Usage notes

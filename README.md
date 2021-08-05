@@ -1,5 +1,5 @@
 # GOCS gRPCweb client
-A ReactJS UI for the [gocs gRPC service](https://github.com/AbhilashJN/gocs-grpc-server). Based on [grpc-web](https://github.com/grpc/grpc-web).
+A ReactJS UI for the [gocs gRPC service](https://github.com/AbhilashJN/gocs-grpc-server). Based on [grpc-web](https://github.com/grpc/grpc-web). Most of the components in this UI are from [gocs-ui-core](https://github.com/AbhilashJN/gocs-ui-core).
 
 ## Usage notes
  - Note that we need to configure a proxy to forward the browser's gRPC-Web requests to the backend, since the web browser will not be able to directly communicate with the gRPC services. Here we use [Envoy](https://www.envoyproxy.io/) proxy for this purpose. 
